@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008965247950",
+    "firebase_url": "https://fbpushtesting.firebaseio.com",
+    "project_id": "fbpushtesting",
+    "storage_bucket": "fbpushtesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008965247950:android:440ef1ad15565da6afc19f",
+        "android_client_info": {
+          "package_name": "com.example.apphorarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008965247950-r1o92aocgmss2edas8s2emmobu3vlu60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahlM76BRUW5vYuLPVLhi-ZmU4eEvzeBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008965247950-r1o92aocgmss2edas8s2emmobu3vlu60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
